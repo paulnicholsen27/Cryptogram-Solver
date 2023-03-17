@@ -1,3 +1,5 @@
+EDIT:  One of my very first full Python projects built from Scratch.  Behold the multiple nested loops!  Gaze upon the world's longest functions!  Fall under the spell of a complete lack of comments!
+
 Cryptogram-Solver
 =================
 
